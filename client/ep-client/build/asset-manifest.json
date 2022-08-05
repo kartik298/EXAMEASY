@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d74cd112.chunk.css",
+    "main.js": "/static/js/main.844f4519.chunk.js",
+    "main.js.map": "/static/js/main.844f4519.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.054c061f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.054c061f.js.map",
+    "static/css/2.59a1d818.chunk.css": "/static/css/2.59a1d818.chunk.css",
+    "static/js/2.7cfd1f96.chunk.js": "/static/js/2.7cfd1f96.chunk.js",
+    "static/js/2.7cfd1f96.chunk.js.map": "/static/js/2.7cfd1f96.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bbfdd1e7532e8ef1605d539a7bdf39a2.js": "/precache-manifest.bbfdd1e7532e8ef1605d539a7bdf39a2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.59a1d818.chunk.css.map": "/static/css/2.59a1d818.chunk.css.map",
+    "static/css/main.d74cd112.chunk.css.map": "/static/css/main.d74cd112.chunk.css.map",
+    "static/js/2.7cfd1f96.chunk.js.LICENSE.txt": "/static/js/2.7cfd1f96.chunk.js.LICENSE.txt",
+    "static/media/Card-1.jpg": "/static/media/Card-1.de2d0433.jpg",
+    "static/media/Card-2.jpg": "/static/media/Card-2.0fab7d90.jpg",
+    "static/media/Card-3.jpg": "/static/media/Card-3.2f878f41.jpg",
+    "static/media/Card-4.jpg": "/static/media/Card-4.3b3c74b8.jpg",
+    "static/media/Carousel-1.jpg": "/static/media/Carousel-1.7f174aaa.jpg",
+    "static/media/Carousel-2.jpg": "/static/media/Carousel-2.fa86ba9a.jpg",
+    "static/media/Carousel-3.jpg": "/static/media/Carousel-3.cbdecf49.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.054c061f.js",
+    "static/css/2.59a1d818.chunk.css",
+    "static/js/2.7cfd1f96.chunk.js",
+    "static/css/main.d74cd112.chunk.css",
+    "static/js/main.844f4519.chunk.js"
+  ]
+}

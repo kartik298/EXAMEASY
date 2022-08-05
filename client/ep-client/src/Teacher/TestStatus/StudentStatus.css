@@ -1,0 +1,50 @@
+.student__status__wrapper {
+    box-shadow: 0 0 5px var(--box-shadow);
+}
+
+.status__header {
+    background-color: var(--primary);
+    text-align: center;
+    margin: 0;
+    color: var(--secondary);
+    font-weight: 500;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 10px;
+}
+
+.student__status__body {
+    border: 1px solid var(--border);
+    padding: 10px;
+}
+
+.status__testname {
+    font-weight: 350 !important;
+    font-size: 1.3em;
+}
+
+.student__status__body div {
+    padding: 5px;
+    font-weight: 500;
+}
+
+.gutter-col-adder{
+    margin: 15px 0px;
+}
+
+.student__status{
+    padding: 2vw 5vw;
+}
+
+.className__container{
+    margin: 10px 0px;
+    text-align: center;
+    font-size: xx-large;
+    color: var(--primary);
+}
+
+.no__results{
+    margin: 30px 0px;
+    font-size: medium;
+    color: #8f8e8e;
+}

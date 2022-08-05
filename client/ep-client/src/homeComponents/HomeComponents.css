@@ -1,0 +1,13 @@
+.caption {
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0) !important;
+}
+
+.description {
+    color: rgb(255, 255, 255) !important;
+    text-shadow: 2px 2px 5px rgb(0, 0, 0) !important;
+}
+
+.card_title {
+    font-size: large;
+}
