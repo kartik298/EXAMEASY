@@ -23,10 +23,9 @@ This project has been built solely during the period of **Microsoft Engage'21 Me
   #### 1. Clone App
 
    Create a new folder and clone the repository there using the following command:
-
+   
   ```
-   $ git clone gh repo clone kartik298/EXAMEASY
-  ```
+   $ git clone https://github.com/kartik298/EXAMEASY.git
 
  #### 2. Backend Set-Up and Installations:
 
