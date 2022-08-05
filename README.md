@@ -9,7 +9,7 @@ Build a functional prototype of a platform that gives students an array of digit
 #### ‣ Project Idea:
 The COVID-19 Pandemic has changed the education system dramatically, with the distinctive rise of e-learning, whereby teaching is undertaken remotely and on digital platforms. Even the exams are being held in a remote fashion. Thus, this project provides an integrated platform for the students as well as the teachers to conduct examinations digitally in a hassle-free manner. One can create, attempt and monitor tests, and maintain score records easily.
 This project has been built solely during the period of 3 weeks under 
-PowerToFly Diversity Hackathon 2021 conducted by powerfly to provide mentorship and to enrich students with various software development techniques.
+PowerToFly Diversity Hackathon 2021 (https://resources.powertofly.com/hackathon-guidelines?hsLang=en)  conducted by powerfly to provide mentorship and to enrich students with various software development techniques.
 
 - [x] Status : Accomplised Successfully
 ## 🎯 Flow Diagram
