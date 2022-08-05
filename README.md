@@ -11,8 +11,6 @@ The COVID-19 Pandemic has changed the education system dramatically, with the di
 This project has been built solely during the period of **Microsoft Engage'21 Mentorship Program** conducted by Microsoft to provide mentorship and to enrich students with various software development techniques.
 
 - [x] Status : Accomplised Successfully
-
-
 ## 🎯 Flow Diagram
 <img width=70% src="https://user-images.githubusercontent.com/51702245/142895712-17f16c4d-c56d-42bd-b6c6-23ba1a68ecbf.jpg" >
 
@@ -27,7 +25,7 @@ This project has been built solely during the period of **Microsoft Engage'21 Me
    Create a new folder and clone the repository there using the following command:
 
   ```
-   $ git clone https://github.com/Shatakshis667/Microsoft-Engage-2021-Project.git
+   $ git clone gh repo clone kartik298/EXAMEASY
   ```
 
  #### 2. Backend Set-Up and Installations:
@@ -80,4 +78,4 @@ Feature | Explanation
 
 
  ## 🎯 Conclusion:-
-I would like to thank my mentor for their guidance and the Microsoft Team for curating this wonderful learning experience and for all the informative sessions. ❤️
+I would like to thank my mentor for their guidance
